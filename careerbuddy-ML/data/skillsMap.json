@@ -1,0 +1,14 @@
+{
+  "Applications Developer": 0,
+  "CRM Technical Developer": 1,
+  "Database Developer": 2,
+  "Mobile Applications Developer": 3,
+  "Network Security Engineer": 4,
+  "Software Developer": 5,
+  "Software Engineer": 6,
+  "Software Quality Assurance (QA) / Testing": 7,
+  "Systems Security Administrator": 8,
+  "Technical Support": 9,
+  "UX Designer": 10,
+  "Web Developer": 11
+}

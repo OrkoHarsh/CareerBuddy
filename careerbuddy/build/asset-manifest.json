@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d85699e1.css",
+    "main.js": "/static/js/main.39bf2ef6.js",
+    "static/media/new_careerbuddy_logo.png": "/static/media/new_careerbuddy_logo.f7a828fd9fd1306da788.png",
+    "static/media/Careerprediction.png": "/static/media/Careerprediction.32e67fca6f804b0b1b4f.png",
+    "static/media/uia_small.png": "/static/media/uia_small.28d18f0c239f2401068d.png",
+    "static/media/Careerbuddy_loader.gif": "/static/media/Careerbuddy_loader.31c405f656dbfe31bcb4.gif",
+    "index.html": "/index.html",
+    "main.d85699e1.css.map": "/static/css/main.d85699e1.css.map",
+    "main.39bf2ef6.js.map": "/static/js/main.39bf2ef6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d85699e1.css",
+    "static/js/main.39bf2ef6.js"
+  ]
+}

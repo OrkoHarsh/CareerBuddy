@@ -1,0 +1,69 @@
+[
+    {
+       "tag": "Current Offering_Doorcrashers",
+       "badge_content": "Doorcrasher",
+       "style": "pdp_badge_style_tgl",
+        "background_color": "#f71b1b",
+       "text_color": "#ffffff",
+       "priority": "5",
+       "is_modal_enabled": true,
+       "modal_content": "\u003cdiv\u003e\n\u003ch3 class=\"h3 heading custom-collection-promo-margin-bottom\"\u003e\u003c\/h3\u003e\n\u003ch2 style=\"margin: auto;\"\u003eDoorcrasher Offer\u003c\/h2\u003e\n\u003c\/div\u003e\n\u003cp\u003e\u003c\/p\u003e\u003cp\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eAdditional in-store savings\u003c\/strong\u003e\n\u003c\/p\u003e\n\u003cp class=\"custom-collection-banner-small\"\u003eGet offer\u003cstrong\u003e In-store\u003c\/strong\u003e, through \u003cstrong\u003e\u003cbutton type=\"button\" style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\" onclick=\"zE.activate();\"\u003eLive Chat\u003c\/button\u003e\u003c\/strong\u003e, or by \u003cstrong\u003e\u003ca href=\"tel:866-262-7820\" style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"\u003ePhone\u003c\/a\u003e\u003c\/strong\u003e\u003c\/p\u003e",
+       "is_link_enabled": false,
+       "url": "https:\/\/www.coastappliances.ca\/collections\/nationwide-grand-opening-sale",
+       "link_onclick" : ""
+    },
+    {
+       "tag": "Current Offering_Samsung Boxing Week",
+       "badge_content": "Samsung Offer",
+       "style": "pdp_badge_style_tgl",
+        "background_color": "#004780",
+       "text_color": "#ffffff",
+       "priority": "1",
+       "is_modal_enabled": false,
+       "modal_content": "\u003cdiv\u003e\n\u003ch3 class=\"h3 heading custom-collection-promo-margin-bottom\"\u003e\u003c\/h3\u003e\n\u003ch2 style=\"margin: auto;\"\u003eKitchenAid Cook Up The Savings\u003c\/h2\u003e\n\u003c\/div\u003e\n\u003cp\u003e\u003c\/p\u003e\u003cp\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eSave $500\u003c\/strong\u003e when you buy \u003cstrong\u003e5 or more\u003c\/strong\u003e qualifying KitchenAid major kitchen appliances. \u003cbr\u003e\nUse promo code \u003cstrong\u003eREBKITCHCUTS500\u003c\/strong\u003e at checkout to redeem. \u003cbr\u003e\n\u003cstrong\u003eSave $400\u003c\/strong\u003e when you buy \u003cstrong\u003e4\u003c\/strong\u003e qualifying KitchenAid major kitchen appliances. \u003cbr\u003e\nUse promo code \u003cstrong\u003eREBKITCHCUTS400\u003c\/strong\u003e at checkout to redeem. \u003cbr\u003e\n\u003cstrong\u003eSave $300\u003c\/strong\u003e when you buy \u003cstrong\u003e3\u003c\/strong\u003e qualifying KitchenAid major kitchen appliances. \u003cbr\u003e\nUse promo code \u003cstrong\u003eREBKITCHCUTS300\u003c\/strong\u003e at checkout to redeem. \u003cbr\u003e\n\u003c\/p\u003e\n\u003cp class=\"custom-collection-banner-small\"\u003eGet offer \u003cstrong\u003eOnline\u003c\/strong\u003e,\u003cstrong\u003e In-store\u003c\/strong\u003e, through \u003cstrong\u003e\u003cbutton type=\"button\" style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\" onclick=\"zE.activate();\"\u003eLive Chat\u003c\/button\u003e\u003c\/strong\u003e, or by \u003cstrong\u003e\u003ca href=\"tel:866-262-7820\" style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"\u003ePhone\u003c\/a\u003e\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp style=\"font-size: smaller;line-height: normal;\"\u003e\u003cspan\u003e\u003cspan\u003e\u003cbr\u003eOffer valid \u003c\/span\u003e\u003cstrong\u003evalid Sept 29 – Nov 2, 2022.\u003c\/strong\u003e\u003cbr\u003e\u003c\/span\u003e\u003c\/p\u003e\n\u003cp\u003e\u003c\/p\u003e\n\u003cp style=\"font-size: smaller;line-height: normal;\"\u003e\u003cspan\u003e\u003cbr\u003e\u003c\/span\u003e\u003cspan\u003e*Eligible only on retail purchases | No more than two models per appliance sub-category will qualify. Includes only qualifying kitchen appliances (accessories are excluded*).Offer cannot be combined with any other offer | Promotion applies to KitchenAid® only. \u003cbr\u003e\u003cbr\u003e\u003c\/span\u003e\u003c\/p\u003e",
+       "is_link_enabled": true,
+       "url": "https:\/\/www.coastappliances.ca\/collections\/samsung-boxing-week",
+       "link_onclick" : ""
+    },
+    {
+       "tag": "Current Offering_Vitara_VFFR2101ESSE-C_Hot Buy",
+       "badge_content": "Limited Quantity Doorcrasher",
+       "style": "pdp_badge_style_tgl",
+        "background_color": "#c70851",
+       "text_color": "#ffffff",
+       "priority": "4",
+       "is_modal_enabled": false,
+       "modal_content": "\u003cdiv\u003e\n\u003ch3 class=\"h3 heading custom-collection-promo-margin-bottom\"\u003e\u003c\/h3\u003e\n\u003ch2 style=\"margin: auto;\"\u003eVitara Fridge - Limited Time Offer\u003c\/h2\u003e\n\u003c\/div\u003e\n\u003cp\u003e\u003c\/p\u003e\u003cp\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eSave 20%\u003c\/strong\u003e off your new fridge and get a \u003cstrong\u003e5 Year Protection Plan Free\u003c\/strong\u003e (1 year Standard Manufacturer Warranty \u0026amp; 4 Year Protection Plan). \u003cbr\u003e\n\u003c\/p\u003e\n\u003cstrong\u003eStep 1:\u003c\/strong\u003e Select 4 Year Protection Plan (+$257) \u003cbr\u003e\n\u003cstrong\u003eStep 2:\u003c\/strong\u003e Add product to cart (the discount will be applied automatically) \u003cbr\u003e\n\u003cstrong\u003eStep 3:\u003c\/strong\u003e Enjoy \u003cbr\u003e",
+       "is_link_enabled": true,
+       "url": "https:\/\/www.coastappliances.ca\/products\/vitara-36-inch-20-3-cu-ft-french-door-refrigerator-in-stainless-vffr2101esse-c?variant=43053090275491",
+       "link_onclick" : ""
+    },
+    {
+       "tag": "Current Offering_LG Kitchen Boxing Week BMSM",
+       "badge_content": "LG Offer",
+       "style": "pdp_badge_style_tgl",
+        "background_color": "#990033",
+       "text_color": "#ffffff",
+       "priority": "2",
+       "is_modal_enabled": false,
+       "modal_content": "",
+       "is_link_enabled": true,
+       "url": "https:\/\/www.coastappliances.ca\/collections\/lg-kitchen-boxing-week-sale",
+       "link_onclick" : ""
+    },
+    {
+       "tag": "Current Offering_Whirlpool Kitchen Black Friday Sale",
+       "badge_content": "Whirlpool\/Maytag\/KitchenAid Offer",
+       "style": "pdp_badge_style_tgl",
+        "background_color": "#efb200",
+       "text_color": "#ffffff",
+       "priority": "3",
+       "is_modal_enabled": false,
+       "modal_content": "",
+       "is_link_enabled": true,
+       "url": "https:\/\/www.coastappliances.ca\/collections\/whirlpool-kitchen-boxing-week-sale",
+       "link_onclick" : ""
+    }
+ 
+ 
+ ]
